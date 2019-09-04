@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/DivaAudriMaharani/nodejs-fundamental/issues"
   },
-  "homepage": "https://github.com/DivaAudriMaharani/nodejs-fundamental#readme"
+  "homepage": "https://github.com/DivaAudriMaharani/nodejs-fundamental#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
 }
